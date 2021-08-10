@@ -17,4 +17,6 @@ How are digital consultancies helpful in one's business?
 # Screenshots
 ![image](https://user-images.githubusercontent.com/66061383/128860849-01f11f79-a8d7-4d8e-9b9d-02a5d39cdc81.png)
 
+![image](https://user-images.githubusercontent.com/66061383/128861341-a84dd7f0-964e-4149-8e2a-e785b268a62e.png)
+
 
