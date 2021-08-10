@@ -14,4 +14,7 @@ How are digital consultancies helpful in one's business?
 2. CSS
 3. JQuery
 
+# Screenshots
+![image](https://user-images.githubusercontent.com/66061383/128860849-01f11f79-a8d7-4d8e-9b9d-02a5d39cdc81.png)
+
 
